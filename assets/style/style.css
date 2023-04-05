@@ -12,13 +12,13 @@ Desenvolvido no VSCode e GitHub.
 
 
 /*Códigos de estruturação de caixas, fontes e navbar*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 * {
     box-sizing: border-box;
-}
-
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /*background-color: rgb(170,50,250);*/
+    margin: 0;
+    padding: 0 ;
+    font-family: 'Poppins', sans-serif;
 }
 
 ul.navbar {
